@@ -2,7 +2,7 @@
 # pooja.singh09@gmail.com
 # this repo has instructions on how to upload raw sequencing reads to the NCBI SRA from a linux server.
 
-## step 1 make an account with ncbi and register a bioproject and biosamples. I usually create one bioproject per manuscript
+## step 1 make an account with ncbi and register a bioproject and biosamples. I usually create one bioproject per manuscript but this might be too simple for last projects with overlapping samples etc.
 https://www.ncbi.nlm.nih.gov/sra/docs/submitbio/
 
 ## step 2 install command-line aspera on your server to facilate data upload. It is much faster than ftp or any other option. Make sure you download a key.
