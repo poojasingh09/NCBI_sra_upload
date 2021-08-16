@@ -14,7 +14,12 @@ https://www.ncbi.nlm.nih.gov/sra/docs/submitfiles/
   
 ## step 4 add aspera uploaded data to a registered bioproject. this can be done though the ncbi website. 
 https://submit.ncbi.nlm.nih.gov/subs/
-
   
-### once your data is added to a bioproject, I do believe that it gets automatically deleted from the ncbi uploads folder, but dont quote me on this.
+## NB1: you can set a public release date for your data. i usually set it to 2 years in the future; and then change it to 'release now' once my manuscript is accepted.
+  
+## NB2: even if your data is not public, you can and should create a reviewer link to add to your manuscript when you submit it for review.
+  
+## NB3: I usually upload my raw sequencing data to ncbi sra and embargo it as soon as it comes hot off the illumina sequencer. this ensures that I have my raw data backed up in one other place.
+
+### once your data is added to a bioproject, I do believe that it gets automatically deleted from the ncbi uploads folder, but don't quote me on this.
 
