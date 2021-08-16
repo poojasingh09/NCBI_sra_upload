@@ -10,7 +10,7 @@ https://www.ncbi.nlm.nih.gov/sra/docs/submitfiles/
 
 ## step 3 upload your data to ncbi SRA. Make sure you name a new destination subdirectory every time you upload data for a new project. Having zipped fastq files makes life easier too (gzip *.fq)
 
-/.aspera/connect/bin/ascp -i aspera.openssh -QT -l800m -k1 -d <path to folder with .fq.gz files> subasp@upload.ncbi.nlm.nih.gov:uploads/<user@email.com_xxxxx>/project1
+ascp -i aspera.openssh -QT -l800m -k1 -d <path to folder with .fq.gz files> subasp@upload.ncbi.nlm.nih.gov:uploads/<user@email.com_xxxxx>/project1
   
 ## step 4 add aspera uploaded data to a registered bioproject. this can be done though the ncbi website. 
 https://submit.ncbi.nlm.nih.gov/subs/
