@@ -23,3 +23,6 @@ https://submit.ncbi.nlm.nih.gov/subs/
 
 ### once your data is added to a bioproject, I do believe that it gets automatically deleted from the ncbi uploads folder, but don't quote me on this.
 
+## here is the interface for your SRA data
+https://dataview.ncbi.nlm.nih.gov
+
